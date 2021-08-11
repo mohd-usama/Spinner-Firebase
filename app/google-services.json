@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "746081374840",
+    "project_id": "spinner-firebase-24ddb",
+    "storage_bucket": "spinner-firebase-24ddb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746081374840:android:e824c2f7d47ad7abc6538d",
+        "android_client_info": {
+          "package_name": "com.example.spinner_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "746081374840-ajl0t39uj7pbvdirlhg0m2k1hdakj2d0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyuZ-PzFjGaZix4-DX0K46Le71eA8hZ0U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "746081374840-ajl0t39uj7pbvdirlhg0m2k1hdakj2d0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
